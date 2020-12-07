@@ -1,0 +1,2 @@
+# asteroid_landing_absolute_nav
+在特征点形貌数据库已知的情况下，建立基于相机或LRF或相机以及LRF的导航模型
